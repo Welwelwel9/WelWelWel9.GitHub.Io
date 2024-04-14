@@ -1,0 +1,17 @@
+{
+    "lang": "en-us",
+    "name": "Wel",
+    "short_name": "Wel",
+    "description": "I am humble and meek optimist and am a jewish natsarim who believes in the messiah Yahusha hamasiach. A Christian, Blader, Youtuber & Instagram Poster",
+    "start_url": "/",
+    "background_color": "#FFFFFF",
+    "theme_color": "#ffa500",
+    "orientation": "any",
+    "display": "standalone",
+    "icons": [
+        {
+            "src": "Wel Circle.png",
+            "sizes": "512x512"
+        }
+    ]
+}
